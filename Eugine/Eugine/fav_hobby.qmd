@@ -1,0 +1,35 @@
+---
+title: "Hobby Introduction: Mountain Climbing"
+author: "Eugine Tan"
+---
+
+# Hobby Introduction: Mountain Climbing
+
+Welcome to the exhilarating world of mountain climbing! My name is Eugine, and I'm passionate about scaling peaks and exploring the wonders of nature from great heights.
+
+## Why Mountain Climbing?
+
+For me, mountain climbing is more than just a hobby; it's a way of life. The challenge of conquering steep slopes, the breathtaking views from the summit, and the sense of accomplishment when reaching the peak are unparalleled experiences that keep me coming back for more.
+
+## My Journey
+
+My fascination with mountain climbing began at a young age when I embarked on my first hike up a local hill. Since then, I've ventured to various mountain ranges around the world, from the rugged peaks of the Himalayas to the majestic summits of the Alps.
+
+ <p align="center">
+    <em>A picture of the mountain I hiked</em><br>
+    ![A picture of the mountain I hiked](imgs/mountain.jpeg)
+</p>
+
+## What I Love About It
+
+One of the things I love most about mountain climbing is the opportunity it provides for personal growth and self-discovery. Each climb presents its own set of obstacles, pushing me to test my limits both physically and mentally. It's a journey of resilience, determination, and inner strength.
+
+## Sharing the Adventure
+
+Mountain climbing is not just about reaching the top; it's also about the camaraderie and sense of community among fellow climbers. Whether it's swapping stories around a campfire or lending a helping hand on a difficult ascent, the bonds forged on the mountain are unlike any other.
+
+## Conclusion
+
+If you're looking for a thrilling adventure that will challenge you in ways you never thought possible, I highly recommend giving mountain climbing a try. From the rush of adrenaline to the serenity of being surrounded by nature, it's an experience that will leave you craving more.
+
+So grab your gear, lace up your boots, and join me as we ascend to new heights together!

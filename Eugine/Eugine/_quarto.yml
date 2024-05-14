@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Eugine's website"
+  favicon: favicon.png
+  navbar:
+    logo: logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: fav_hobby.qmd
+        text: Favourite Hobby
+      - href: fav_recipe.qmd
+        text: Favourite Recipe
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 1
+    toc-location: left

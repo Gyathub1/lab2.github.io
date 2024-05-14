@@ -1,0 +1,16 @@
+---
+title: "My Favourite Movie"
+output: html_document
+---
+
+# Introduction to ***君の名は (Your Name)***
+
+Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.
+
+## Featured Music Video
+
+Here is the trailer to the movie, hope it entices you to watch it soon!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xU47nhruN-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

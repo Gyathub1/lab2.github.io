@@ -1,0 +1,94 @@
+---
+title: "Plain Text Version of the Titanic"
+author: "Your Name"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    transition: 'slide'
+    width: 1280
+    height: 720
+    margin: 0.1
+    minScale: 0.2
+    maxScale: 1.5
+    scroll: true
+---
+
+## Introduction
+
+RMS Titanic was a British ocean liner that sank on 15 April 1912 after striking an iceberg. It was on its maiden voyage from Southampton to New York City. The sinking resulted in the death of about 1,500 people, making it one of the deadliest maritime disasters in history. The Titanic carried some of the wealthiest people in the world, as well as hundreds of emigrants. The disaster spurred major changes in maritime safety regulations.
+
+![Image of RMS Titanic](imgs/1469px-RMS_Titanic_3.jpg)
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Titanic)
+
+---
+
+# Why is the Titanic Famous?
+
+The Titanic is notable for several reasons:
+
+- **Largest ship of its time.**
+- **Sank on her maiden voyage.**
+- **Ignored multiple ice warnings.**
+- **Insufficient lifeboats.**
+- **Tragic loss of lives, including many prominent figures.**
+- **Diverse stories of passengers and crew from various social strata.**
+
+Source: [Encyclopedia Titanica](https://www.encyclopedia-titanica.org/titanic/)
+
+---
+
+## Dimensions of the Titanic
+
+::::{columns}
+:::{column width="60%"}
+**Dimensions:**
+- Length: 269.1 m
+- Beam: 28.2 m
+- Height: 53.3 m
+- Draught: 10.5 m
+- Depth: 19.7 m
+:::
+:::{column width="40%"}
+![Comparison with a modern airplane](imgs/compare_titanic_with_plane.jpg)
+:::
+::::
+
+---
+
+## Survival Rates
+
+**Passenger and Crew Survival Statistics:**
+
+| Class       | Number Survived / Total | Survival Rate |
+|-------------|------------------------:|--------------:|
+| 1st Class   | 201 / 324               |        62.04% |
+| 2nd Class   | 118 / 284               |        41.55% |
+| 3rd Class   | 181 / 709               |        25.53% |
+| Crew        | 212 / 891               |        23.79% |
+
+Data from: [Encyclopedia Titanica](https://www.encyclopedia-titanica.org/)
+
+---
+
+# Social Class and Survival
+
+> "I can never understand why God would have spared a poor Finnish girl when all those rich people drowned."
+> - **Anna Sofia Turja**, a 3rd-class passenger
+
+This quote highlights the disparity in survival rates between different social classes:
+- **1st Class**: Higher survival rate, more accessible to lifeboats.
+- **Crew and 3rd Class**: Lower survival rates, responsibilities, and location on the ship hindered escape.
+
+![Photo of Anna Sofia Turja](imgs/anna-turja_P1.jpg)
+
+Link to Anna's story: [Encyclopedia Titanica](https://www.encyclopedia-titanica.org/titanic-survivor/anna-sofia-turja.html)
+
+---
+
+# Conclusion
+
+- **The Titanic was among the largest and most luxurious ships of its time.**
+- **Her tragic sinking remains a poignant reminder of the importance of safety in maritime travel.**
+- **Social class played a significant role in survival chances during the disaster.**
