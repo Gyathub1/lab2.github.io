@@ -1,0 +1,7 @@
+[1,"==> quarto preview index.qmd --to default --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Eugine's website\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  toc-depth: 1\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: cosmo\n  toc-location: left\n  title: Final Year Project\n  author: Eugine Tan\n  \n"]
+[1,"Output created: docs\\index.html\n\nWatching files for changes\nBrowse at http://localhost:6567/index.html\n"]
+[1,"  /styles.css (404: Not Found)\n"]
+[1,"  /logo.png (404: Not Found)\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Eugine's website\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  toc-depth: 1\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: cosmo\n  toc-location: left\n  title: Final Year Project\n  author: Eugine Tan\n  \n"]
+[1,"Output created: docs\\index.html\n\nWatching files for changes\n  /styles.css (404: Not Found)\n  /logo.png (404: Not Found)\n"]
